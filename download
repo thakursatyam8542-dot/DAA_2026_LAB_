@@ -1,0 +1,11 @@
+# Compiled C programs
+*.exe
+*.out
+*.o
+
+# Generated data files
+numbers.txt
+
+# IDE/editor files
+.vscode/
+.idea/
